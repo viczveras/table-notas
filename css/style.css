@@ -17,3 +17,15 @@ table{
 .nome{
 	text-align: left;
 }
+
+
+.link-icon {
+    width: 16px;  
+    height: 16px; 
+}
+
+
+.link-icon-large {
+    width: 32px;
+    height: 32px;
+}
